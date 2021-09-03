@@ -5,6 +5,7 @@ Library                 RequestsLibrary
 # vai importar como biblioteca o código em python que tem o método que vai devolver a massa de teste
 Library                 ${EXECDIR}/factories/Thanos.py
 
+
 *Test Cases*
 Deve cadastrar um personagem
    Account And Set Headers      alessandra.mitie@gmail.com

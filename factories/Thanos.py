@@ -10,3 +10,4 @@ def factory_thanos():
         "team": "Ordem Negra",
         "active": False
     }
+    
