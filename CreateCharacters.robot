@@ -24,7 +24,6 @@ Deve cadastrar um personagem
 Account And Set Headers
     [Arguments]     ${email}
 
-
     #super variável pode ser representada por chave e valor
     # palavra chave Create Dictionary faz com que seja possível criar uma super variável no robot que será representada por chave e valor, ou seja, um dicionário de dados
     # para indicar que é um dicionário de dados, iniciar a variável com &
